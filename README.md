@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Gopika-P-G.
 - 👀 I’m interested in Data science.
 - 🌱 I’m currently doing project on Python,Sql,ML ,data analysis and visualization to reinforce what I learned.
+- Visualization projects : https://public.tableau.com/app/profile/gopikaperkulam
 - 📫 How to reach me gopikaperkulam@gmail.com.
 
 <!---
